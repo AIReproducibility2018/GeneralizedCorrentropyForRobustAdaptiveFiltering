@@ -1,0 +1,27 @@
+DATA
+Name of data set:
+Link to data set: 
+Version of data set:
+License of data set:
+Is the data set preprocessed:
+Link to preprocessed data:
+Version of preprocessed data:
+License of preprocessed data:
+
+EXPERIMENT
+Method source code: GeneralizedCorrentropyForRobustAdaptiveFiltering
+Link to method source code: https://github.com/AIReproducibility2018/GeneralizedCorrentropyForRobustAdaptiveFiltering
+Method source code version: 
+Method source code license: 
+Experiment source code: ClusteringByFastSearchAndFindOfDensityPeaks
+Link to experiment source code: https://github.com/AIReproducibility2018/GeneralizedCorrentropyForRobustAdaptiveFiltering
+Experiment source code version:
+Experiment source code license: 
+Hardware description:
+	* CPU vendor and type: Intel i5-4670
+	* Size of primary memory (RAM): 8 GB
+	* Size of secondary memory (Harddisk):  500 GB
+Operating system and version: Windows 10 Pro, version 1709
+Ancillary software and version:
+Link to ancillary software and version:
+Link to explicit results: https://github.com/AIReproducibility2018/GeneralizedCorrentropyForRobustAdaptiveFiltering
